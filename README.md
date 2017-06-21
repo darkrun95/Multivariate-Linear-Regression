@@ -21,7 +21,7 @@ This dataset contains house sale prices for King County, which includes Seattle.
 For different values of alpha - respective cost function variation.
 
 ## Normal Equation Method
-theta = (inv(X'X))Xy
+theta = (inv(X'X))X'y
 
 where,<br/>
 <ul>
