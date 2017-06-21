@@ -9,7 +9,7 @@ https://www.kaggle.com/harlfoxem/housesalesprediction
 19 house features plus the price and the id columns, along with 21613 observations.
 
 ### Features used:
-Target value: Price
+Target value: Price<br/>
 Features: Square Feet of plot, bedrooms, floors 
 
 ### Description: 
