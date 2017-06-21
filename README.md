@@ -15,6 +15,7 @@ Features: Square Feet of plot, bedrooms, floors
 ### Description: 
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
-### Graph:
+## Graph:
 ![Graph](graph.png)
+<br/>
 For different values of alpha - respective cost function variation.
